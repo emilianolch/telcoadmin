@@ -1,0 +1,32 @@
+<h2>telcoAdmin :: facturación</h2>
+
+<% remote_form_for(:cdr_select, :url => {:action => 'listar'}, 
+                   :update => 'cdrlist',
+                   :loading => "Element.show('status')",
+                   :success => "Element.hide('status')") do |f| %>
+  <p>
+    <%= f.label 'Inicio del período' %><br />
+    <%= f.date_select :desde %>
+  </p>
+
+  <p>
+    <%= f.label 'Fin del período' %><br />
+    <%= f.date_select :hasta %>
+  </p>
+
+  <p>
+    <%= f.label 'Cliente' %><br />
+    <%= f.select :dcontext, @cdr_select.dcontexts %>
+  </p>
+  <p>
+    <%= f.submit 'Listar' %>
+  </p>
+
+<% end %>
+ 
+<div id="status" style="display: none;">
+  <p>Cargando...</p>
+</div>
+
+<div id="cdrlist">
+</div>

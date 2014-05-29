@@ -1,0 +1,216 @@
+  [4;36;1mSQL (54.1ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (63.9ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (53.4ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (60.3ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (52.8ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (58.3ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (58.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (57.0ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (56.8ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'x') LIMIT 1[0m
+  [4;35;1mSQL (73.9ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (52.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (56.0ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'hugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhug') LIMIT 1[0m
+  [4;36;1mSQL (59.9ms)[0m   [0;1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (65.8ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (57.6ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'') LIMIT 1[0m
+  [4;35;1mSQL (54.8ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (53.3ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (56.9ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'okbob') LIMIT 1[0m
+  [4;36;1mUser Create (57.0ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "login", "password", "created_at") VALUES('2009-05-07 13:15:34.174150', E'okbob', E'98740ff87bade6d895010bceebbd9f718e7856bb', '2009-05-07 13:15:34.174150')[0m
+  [4;35;1mSQL (57.7ms)[0m   [0mSELECT currval('users_id_seq')[0m
+  [4;36;1mSQL (57.8ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (62.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (55.7ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (53.6ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (55.4ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'existingbob') LIMIT 1[0m
+  [4;35;1mSQL (56.4ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (60.5ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (55.8ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (55.3ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (55.6ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonexistingbob') LIMIT 1[0m
+  [4;36;1mUser Create (64.5ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "login", "password", "created_at") VALUES('2009-05-07 13:15:35.395857', E'nonexistingbob', E'98740ff87bade6d895010bceebbd9f718e7856bb', '2009-05-07 13:15:35.395857')[0m
+  [4;35;1mSQL (58.7ms)[0m   [0mSELECT currval('users_id_seq')[0m
+  [4;36;1mSQL (55.9ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (54.4ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (53.7ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (61.5ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (56.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonbob') LIMIT 1[0m
+  [4;35;1mSQL (61.6ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (58.9ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (55.6ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonbob') LIMIT 1[0m
+  [4;36;1mSQL (53.7ms)[0m   [0;1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (54.3ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (54.8ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonbob') LIMIT 1[0m
+  [4;35;1mSQL (54.5ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (58.5ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (76.5ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonbob') LIMIT 1[0m
+  [4;36;1mUser Create (62.3ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "login", "password", "created_at") VALUES('2009-05-07 13:15:36.571990', E'nonbob', E'98740ff87bade6d895010bceebbd9f718e7856bb', '2009-05-07 13:15:36.571990')[0m
+  [4;35;1mSQL (55.8ms)[0m   [0mSELECT currval('users_id_seq')[0m
+  [4;36;1mSQL (54.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (69.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (62.7ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (52.7ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Update (55.1ms)[0m   [0;1mUPDATE "users" SET "password" = E'30f14432fe909cc14f5ebf6c0a892d90f4392afe', "updated_at" = '2009-05-07 13:15:37.163212' WHERE "id" = 1000003[0m
+  [4;35;1mSQL (57.9ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (56.5ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (55.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (55.4ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (53.0ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonexistingbob') LIMIT 1[0m
+  [4;36;1mUser Create (53.3ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "login", "password", "created_at") VALUES('2009-05-07 13:15:37.733377', E'nonexistingbob', E'98740ff87bade6d895010bceebbd9f718e7856bb', '2009-05-07 13:15:37.733377')[0m
+  [4;35;1mSQL (56.5ms)[0m   [0mSELECT currval('users_id_seq')[0m
+  [4;36;1mSQL (54.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (55.7ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (55.9ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (55.0ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (55.8ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mUser Load (57.1ms)[0m   [0mSELECT * FROM "users" WHERE (login = E'bob' AND password = E'9a91e1d8d95b6315991a88121bb0aa9f03ba0dfc') LIMIT 1[0m
+  [4;36;1mUser Load (55.3ms)[0m   [0;1mSELECT * FROM "users" WHERE (login = E'nonbob' AND password = E'9a91e1d8d95b6315991a88121bb0aa9f03ba0dfc') LIMIT 1[0m
+  [4;35;1mSQL (54.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (56.4ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (54.7ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (66.0ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'x') LIMIT 1[0m
+  [4;35;1mSQL (55.4ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (75.9ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (62.9ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'hugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhugebobhug') LIMIT 1[0m
+  [4;36;1mSQL (55.9ms)[0m   [0;1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (54.0ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (58.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'') LIMIT 1[0m
+  [4;35;1mSQL (54.2ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (52.9ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (55.0ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'okbob') LIMIT 1[0m
+  [4;36;1mUser Create (57.4ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "login", "password", "created_at") VALUES('2009-05-07 13:16:09.934499', E'okbob', E'98740ff87bade6d895010bceebbd9f718e7856bb', '2009-05-07 13:16:09.934499')[0m
+  [4;35;1mSQL (55.9ms)[0m   [0mSELECT currval('users_id_seq')[0m
+  [4;36;1mSQL (53.3ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (52.7ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (54.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (81.5ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (62.7ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'existingbob') LIMIT 1[0m
+  [4;35;1mSQL (55.5ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (54.8ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (59.7ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (79.0ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (57.0ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonexistingbob') LIMIT 1[0m
+  [4;36;1mUser Create (55.3ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "login", "password", "created_at") VALUES('2009-05-07 13:16:11.223594', E'nonexistingbob', E'98740ff87bade6d895010bceebbd9f718e7856bb', '2009-05-07 13:16:11.223594')[0m
+  [4;35;1mSQL (54.7ms)[0m   [0mSELECT currval('users_id_seq')[0m
+  [4;36;1mSQL (57.0ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (52.9ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (60.7ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (52.4ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (56.5ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonbob') LIMIT 1[0m
+  [4;35;1mSQL (54.5ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (53.5ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (62.2ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonbob') LIMIT 1[0m
+  [4;36;1mSQL (54.4ms)[0m   [0;1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (52.9ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (57.4ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonbob') LIMIT 1[0m
+  [4;35;1mSQL (56.2ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (55.2ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (57.5ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonbob') LIMIT 1[0m
+  [4;36;1mUser Create (59.1ms)[0m   [0;1mINSERT INTO "users" ("updated_at", "login", "password", "created_at") VALUES('2009-05-07 13:16:12.364419', E'nonbob', E'98740ff87bade6d895010bceebbd9f718e7856bb', '2009-05-07 13:16:12.364419')[0m
+  [4;35;1mSQL (57.6ms)[0m   [0mSELECT currval('users_id_seq')[0m
+  [4;36;1mSQL (57.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (58.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (57.8ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (56.8ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Update (56.3ms)[0m   [0;1mUPDATE "users" SET "password" = E'30f14432fe909cc14f5ebf6c0a892d90f4392afe', "updated_at" = '2009-05-07 13:16:12.942651' WHERE "id" = 1000003[0m
+  [4;35;1mSQL (57.8ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mUser Load (55.8ms)[0m   [0;1mSELECT * FROM "users" WHERE (login = E'longbob' AND password = E'30f14432fe909cc14f5ebf6c0a892d90f4392afe') LIMIT 1[0m
+  [4;35;1mUser Load (56.5ms)[0m   [0mSELECT * FROM "users" WHERE (login = E'longbob' AND password = E'8e9b1a9a38e66ca572a5e8fdac8e256848842dfa') LIMIT 1[0m
+  [4;36;1mSQL (53.5ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Update (56.3ms)[0m   [0mUPDATE "users" SET "password" = E'8e9b1a9a38e66ca572a5e8fdac8e256848842dfa', "updated_at" = '2009-05-07 13:16:13.225752' WHERE "id" = 1000003[0m
+  [4;36;1mSQL (54.9ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mUser Load (56.4ms)[0m   [0mSELECT * FROM "users" WHERE (login = E'longbob' AND password = E'8e9b1a9a38e66ca572a5e8fdac8e256848842dfa') LIMIT 1[0m
+  [4;36;1mUser Load (58.0ms)[0m   [0;1mSELECT * FROM "users" WHERE (login = E'longbob' AND password = E'30f14432fe909cc14f5ebf6c0a892d90f4392afe') LIMIT 1[0m
+  [4;35;1mSQL (54.5ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (53.5ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (56.6ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (53.1ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'nonexistingbob') LIMIT 1[0m
+  [4;35;1mUser Create (55.8ms)[0m   [0mINSERT INTO "users" ("updated_at", "login", "password", "created_at") VALUES('2009-05-07 13:16:13.909744', E'nonexistingbob', E'98740ff87bade6d895010bceebbd9f718e7856bb', '2009-05-07 13:16:13.909744')[0m
+  [4;36;1mSQL (62.4ms)[0m   [0;1mSELECT currval('users_id_seq')[0m
+  [4;35;1mSQL (56.3ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (53.8ms)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (65.5ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (59.2ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (56.1ms)[0m   [0;1mBEGIN[0m
+
+
+Processing UserController#login (for 0.0.0.0 at 2009-05-07 10:16:36) [POST]
+  Parameters: {"user_login"=>"bob", "user_password"=>"test"}
+  [4;35;1mUser Load (59.3ms)[0m   [0mSELECT * FROM "users" WHERE (login = E'bob' AND password = E'9a91e1d8d95b6315991a88121bb0aa9f03ba0dfc') LIMIT 1[0m
+Redirected to http://localhost/bogus/location
+Completed in 65ms (DB: 944) | 302 Found [http://localhost/user/login?user_login=bob&user_password=test]
+  [4;36;1mSQL (55.5ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (57.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mUser Load (60.9ms)[0m   [0;1mSELECT * FROM "users" WHERE (login = E'bob' AND password = E'9a91e1d8d95b6315991a88121bb0aa9f03ba0dfc') LIMIT 1[0m
+
+
+Processing UserController#signup (for 0.0.0.0 at 2009-05-07 10:16:36) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"wrong", "password"=>"newpassword", "login"=>"newbob"}}
+  [4;35;1mSQL (56.9ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (55.3ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'newbob') LIMIT 1[0m
+  [4;35;1mSQL (62.1ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+Rendering template within layouts/scaffold
+Rendering user/signup
+Completed in 202ms (View: 18, DB: 522) | 200 OK [http://localhost/user/signup?user%5Blogin%5D=newbob&user%5Bpassword%5D=newpassword&user%5Bpassword_confirmation%5D=wrong]
+
+
+Processing UserController#signup (for 0.0.0.0 at 2009-05-07 10:16:36) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"newpassword", "password"=>"newpassword", "login"=>"yo"}}
+  [4;36;1mSQL (59.9ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mUser Exists (57.7ms)[0m   [0mSELECT "users".id FROM "users" WHERE ("users"."login" = E'yo') LIMIT 1[0m
+  [4;36;1mSQL (54.8ms)[0m   [0;1mROLLBACK TO SAVEPOINT active_record_1[0m
+Rendering template within layouts/scaffold
+Rendering user/signup
+Completed in 184ms (View: 5, DB: 172) | 200 OK [http://localhost/user/signup?user%5Blogin%5D=newbob&user%5Bpassword%5D=newpassword&user%5Bpassword_confirmation%5D=wrong]
+
+
+Processing UserController#signup (for 0.0.0.0 at 2009-05-07 10:16:36) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"wrong", "password"=>"newpassword", "login"=>"yo"}}
+  [4;35;1mSQL (56.7ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (55.9ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'yo') LIMIT 1[0m
+  [4;35;1mSQL (59.3ms)[0m   [0mROLLBACK TO SAVEPOINT active_record_1[0m
+Rendering template within layouts/scaffold
+Rendering user/signup
+Completed in 185ms (View: 5, DB: 172) | 200 OK [http://localhost/user/signup?user%5Blogin%5D=newbob&user%5Bpassword%5D=newpassword&user%5Bpassword_confirmation%5D=wrong]
+  [4;36;1mSQL (62.5ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (67.3ms)[0m   [0mBEGIN[0m
+
+
+Processing UserController#login (for 0.0.0.0 at 2009-05-07 10:16:37) [POST]
+  Parameters: {"user_login"=>"bob", "user_password"=>"not_correct"}
+  [4;36;1mUser Load (56.9ms)[0m   [0;1mSELECT * FROM "users" WHERE (login = E'bob' AND password = E'8658061eecc71772328c3cae03c3ef2f1e189f7e') LIMIT 1[0m
+Rendering template within layouts/scaffold
+Rendering user/login
+Completed in 63ms (View: 4, DB: 367) | 200 OK [http://localhost/user/login?user_login=bob&user_password=not_correct]
+  [4;35;1mSQL (53.8ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (57.7ms)[0m   [0;1mBEGIN[0m
+
+
+Processing UserController#login (for 0.0.0.0 at 2009-05-07 10:16:38) [POST]
+  Parameters: {"user_login"=>"bob", "user_password"=>"test"}
+  [4;35;1mUser Load (58.4ms)[0m   [0mSELECT * FROM "users" WHERE (login = E'bob' AND password = E'9a91e1d8d95b6315991a88121bb0aa9f03ba0dfc') LIMIT 1[0m
+Redirected to http://localhost/user/welcome
+Completed in 61ms (DB: 348) | 302 Found [http://localhost/user/login?user_login=bob&user_password=test]
+
+
+Processing UserController#logout (for 0.0.0.0 at 2009-05-07 10:16:38) [GET]
+  Parameters: {"user_login"=>"bob", "user_password"=>"test"}
+Rendering template within layouts/scaffold
+Rendering user/logout
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/user/login?user_login=bob&user_password=test]
+  [4;36;1mSQL (67.3ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (55.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mUser Load (67.2ms)[0m   [0;1mSELECT * FROM "users" WHERE (login = E'bob' AND password = E'9a91e1d8d95b6315991a88121bb0aa9f03ba0dfc') LIMIT 1[0m
+
+
+Processing UserController#signup (for 0.0.0.0 at 2009-05-07 10:16:38) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"newpassword", "password"=>"newpassword", "login"=>"newbob"}}
+  [4;35;1mSQL (56.7ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mUser Exists (70.7ms)[0m   [0;1mSELECT "users".id FROM "users" WHERE ("users"."login" = E'newbob') LIMIT 1[0m
+  [4;35;1mUser Create (54.6ms)[0m   [0mINSERT INTO "users" ("updated_at", "login", "password", "created_at") VALUES('2009-05-07 13:16:38.717810', E'newbob', E'daa3b3a66271c898a97c5883de4e9e4965e8df97', '2009-05-07 13:16:38.717810')[0m
+  [4;36;1mSQL (58.0ms)[0m   [0;1mSELECT currval('users_id_seq')[0m
+  [4;35;1mSQL (60.3ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mUser Load (61.2ms)[0m   [0;1mSELECT * FROM "users" WHERE (login = E'newbob' AND password = E'daa3b3a66271c898a97c5883de4e9e4965e8df97') LIMIT 1[0m
+Redirected to http://localhost/bogus/location
+Completed in 442ms (DB: 727) | 302 Found [http://localhost/user/signup?user%5Blogin%5D=newbob&user%5Bpassword%5D=newpassword&user%5Bpassword_confirmation%5D=newpassword]
+  [4;35;1mSQL (55.1ms)[0m   [0mROLLBACK[0m

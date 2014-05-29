@@ -1,0 +1,7 @@
+[Mon May 11 20:17:55 2009] [error] [client 190.15.192.149] Directory index forbidden by Options directive: /var/rails/telcoadmin/public/
+[Mon May 11 20:18:05 2009] [error] [client 190.15.192.149] File does not exist: /var/rails/telcoadmin/public/cdrs
+[Mon May 11 20:18:12 2009] [error] [client 190.15.192.149] Directory index forbidden by Options directive: /var/rails/telcoadmin/public/
+[Mon May 11 20:20:25 2009] [error] [client 190.15.192.149] Directory index forbidden by Options directive: /var/rails/telcoadmin/public/
+[Mon May 11 20:21:18 2009] [error] [client 190.15.192.149] Directory index forbidden by Options directive: /var/rails/telcoadmin/public/
+[Mon May 11 20:21:20 2009] [error] [client 190.15.192.149] Directory index forbidden by Options directive: /var/rails/telcoadmin/public/
+[Tue May 12 00:06:26 2009] [error] [client 190.15.192.149] Directory index forbidden by Options directive: /var/rails/telcoadmin/public/

@@ -1,0 +1,52 @@
+8
+
+dir
+10
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba/config/locales
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba
+
+
+
+2009-05-11T17:10:02.669215Z
+4
+emiliano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c9d79487-2b78-4f5e-997e-9ca8187154fc
+
+en.yml
+file
+
+
+
+
+2009-05-11T22:40:36.000000Z
+16efc327461a7bdac033b4897171b5c6
+2009-05-07T12:59:43.124767Z
+1
+emiliano
+
+es-AR.yml
+file
+
+
+
+
+2009-05-11T22:40:36.000000Z
+f65e5e131f9f9b6021170bb123d46982
+2009-05-11T17:10:02.669215Z
+4
+emiliano
+

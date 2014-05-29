@@ -1,0 +1,27 @@
+<p>
+Total del período: <%= '$ %.02f' % @total_periodo %>
+</p>
+
+<table>
+  <tr>
+    <th>Fecha y Hora</th>
+    <th>Número discado</th>
+    <th>Localidad</th>
+    <th>Segundos</th>
+    <th>Minutos</th>
+    <th>Costo minuto</th>
+    <th>Costo total</th>
+  </tr>
+
+<% @cdrs.each do |cdr| %>
+  <tr>
+    <td><%=l cdr.calldate %></td>
+    <td><%=h cdr.dst %></td>
+    <td><%=h cdr.destino.localidad %></td>
+    <td><%=h cdr.billsec %></td>
+    <td><%=h cdr.minutos %></td>
+    <td><%=h cdr.destino.valor %></td>
+    <td><%=h cdr.valor_total %></td>
+  </tr>
+<% end %>
+</table>

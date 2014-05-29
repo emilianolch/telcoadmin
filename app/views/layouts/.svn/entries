@@ -1,0 +1,52 @@
+8
+
+dir
+10
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba/app/views/layouts
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba
+
+
+
+2009-05-07T19:53:51.637826Z
+3
+emiliano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c9d79487-2b78-4f5e-997e-9ca8187154fc
+
+cdrs.html.erb
+file
+
+
+
+
+2009-05-11T22:40:34.000000Z
+33e1295632aec58dde1612ea06e50f2d
+2009-05-07T19:53:51.637826Z
+3
+emiliano
+
+scaffold.rhtml
+file
+
+
+
+
+2009-05-11T22:40:34.000000Z
+f1aa13fecdf216bb27f8609c342da19d
+2009-05-07T19:53:51.637826Z
+3
+emiliano
+

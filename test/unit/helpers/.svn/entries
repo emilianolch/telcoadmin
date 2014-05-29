@@ -1,0 +1,40 @@
+8
+
+dir
+10
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba/test/unit/helpers
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba
+
+
+
+2009-05-07T19:53:51.637826Z
+3
+emiliano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c9d79487-2b78-4f5e-997e-9ca8187154fc
+
+cdrs_helper_test.rb
+file
+
+
+
+
+2009-05-11T22:40:34.000000Z
+73a35fcaa17aac2df5da93b8c7f1b79a
+2009-05-07T19:53:51.637826Z
+3
+emiliano
+

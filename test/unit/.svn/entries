@@ -1,0 +1,79 @@
+8
+
+dir
+10
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba/test/unit
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba
+
+
+
+2009-05-21T19:52:42.098812Z
+9
+emiliano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c9d79487-2b78-4f5e-997e-9ca8187154fc
+
+user_test.rb
+file
+
+
+
+
+2009-05-11T22:40:34.000000Z
+5366cf48355c24fbaca44dbbef25cb76
+2009-05-07T13:22:43.694349Z
+2
+emiliano
+
+ic_destino_test.rb
+file
+
+
+
+
+2009-05-21T19:53:44.000000Z
+c37f93dea55cc4e8cb7e4cbb84397be2
+2009-05-21T19:52:42.098812Z
+9
+emiliano
+
+helpers
+dir
+
+destino_test.rb
+file
+
+
+
+
+2009-05-11T22:40:34.000000Z
+bf5893ff8f08c2f6e54a2c17dd3cdec2
+2009-05-11T22:36:07.616359Z
+5
+emiliano
+
+cdr_test.rb
+file
+
+
+
+
+2009-05-11T22:40:34.000000Z
+de0f8c95cc11e0e2798586744e677f4e
+2009-05-07T19:53:51.637826Z
+3
+emiliano
+

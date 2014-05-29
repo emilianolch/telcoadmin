@@ -1,0 +1,97 @@
+8
+
+dir
+10
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba/config
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba
+
+
+
+2010-12-10T22:12:00.751541Z
+10
+emiliano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c9d79487-2b78-4f5e-997e-9ca8187154fc
+
+locales
+dir
+
+routes.rb
+file
+
+
+
+
+2009-05-11T22:53:19.000000Z
+d181fbcaa068e70831b2857b0db3dc0a
+2009-05-11T22:52:24.044762Z
+6
+emiliano
+
+database.yml
+file
+
+
+
+
+2010-12-11T22:39:12.000000Z
+547f641a6b5bbba67f1efb74f6734cc6
+2010-12-10T22:12:00.751541Z
+10
+emiliano
+
+mongrel_cluster.yml
+file
+
+
+
+
+2009-05-12T03:50:49.000000Z
+9e3513d369262a3932c43bcb4be5d9c0
+2009-05-12T03:53:07.399812Z
+7
+emiliano
+
+boot.rb
+file
+
+
+
+
+2009-05-11T22:40:36.000000Z
+1375ffc0d162a8ed845e9e9d100b7658
+2009-05-07T12:59:43.124767Z
+1
+emiliano
+
+initializers
+dir
+
+environment.rb
+file
+
+
+
+
+2009-05-11T22:40:36.000000Z
+cf8a2dfa125e9bf33db656e60e5ce1a2
+2009-05-11T17:10:02.669215Z
+4
+emiliano
+
+environments
+dir
+

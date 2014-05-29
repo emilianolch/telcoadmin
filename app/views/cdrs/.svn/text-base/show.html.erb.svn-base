@@ -1,0 +1,83 @@
+<p>
+  <b>Calldate:</b>
+  <%=h @cdr.calldate %>
+</p>
+
+<p>
+  <b>Clid:</b>
+  <%=h @cdr.clid %>
+</p>
+
+<p>
+  <b>Src:</b>
+  <%=h @cdr.src %>
+</p>
+
+<p>
+  <b>Dst:</b>
+  <%=h @cdr.dst %>
+</p>
+
+<p>
+  <b>Dcontext:</b>
+  <%=h @cdr.dcontext %>
+</p>
+
+<p>
+  <b>Channel:</b>
+  <%=h @cdr.channel %>
+</p>
+
+<p>
+  <b>Dstchannel:</b>
+  <%=h @cdr.dstchannel %>
+</p>
+
+<p>
+  <b>Lastapp:</b>
+  <%=h @cdr.lastapp %>
+</p>
+
+<p>
+  <b>Lastdata:</b>
+  <%=h @cdr.lastdata %>
+</p>
+
+<p>
+  <b>Duration:</b>
+  <%=h @cdr.duration %>
+</p>
+
+<p>
+  <b>Billsec:</b>
+  <%=h @cdr.billsec %>
+</p>
+
+<p>
+  <b>Disposition:</b>
+  <%=h @cdr.disposition %>
+</p>
+
+<p>
+  <b>Amaflags:</b>
+  <%=h @cdr.amaflags %>
+</p>
+
+<p>
+  <b>Accountcode:</b>
+  <%=h @cdr.accountcode %>
+</p>
+
+<p>
+  <b>Uniqueid:</b>
+  <%=h @cdr.uniqueid %>
+</p>
+
+<p>
+  <b>Userfield:</b>
+  <%=h @cdr.userfield %>
+</p>
+
+
+<%= link_to 'Edit', edit_cdr_path(@cdr) %> |
+<%= link_to 'Back', cdrs_path %>

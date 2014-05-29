@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  indicativo: MyString
+  bloque: MyString
+  localidad: MyString
+  clave_tasacion: MyString
+  costo: 1.5
+
+two:
+  indicativo: MyString
+  bloque: MyString
+  localidad: MyString
+  clave_tasacion: MyString
+  costo: 1.5

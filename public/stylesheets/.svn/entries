@@ -1,0 +1,40 @@
+8
+
+dir
+10
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba/public/stylesheets
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba
+
+
+
+2009-05-11T17:10:02.669215Z
+4
+emiliano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c9d79487-2b78-4f5e-997e-9ca8187154fc
+
+scaffold.css
+file
+
+
+
+
+2009-05-11T22:40:37.000000Z
+69243adc405d8c8108d83a0bb749bcf7
+2009-05-11T17:10:02.669215Z
+4
+emiliano
+

@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  indicativo: MyString
+  costo: 1.5
+
+two:
+  indicativo: MyString
+  costo: 1.5

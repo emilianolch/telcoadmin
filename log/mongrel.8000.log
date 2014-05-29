@@ -1,0 +1,2005 @@
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "www-data":"www-data".
+** Changing group to "www-data".
+** Changing user to "www-data".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+Wed Jul 22 20:37:45 -0300 2009: Reaping 5 threads for slow workers because of 'shutdown'
+Thread #<Thread:0xf68891bc sleep> is too old, killing.
+Wed Jul 22 20:37:45 -0300 2009: Error calling Dispatcher.dispatch #<Mongrel::TimeoutError: Mongrel timed out this thread: shutdown>Thread #<Thread:0xf6889b58 sleep> is too old, killing.
+
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:221:in `process'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/usr/bin/mongrel_rails:19:in `load'
+/usr/bin/mongrel_rails:19Wed Jul 22 20:37:45 -0300 2009: Error calling Dispatcher.dispatch #<Mongrel::TimeoutError: Mongrel timed out this thread: shutdown>Thread #<Thread:0xf688a508 sleep> is too old, killing.
+
+
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:221:in `process'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/usr/bin/mongrel_rails:19:in `load'
+/usr/bin/mongrel_rails:19Wed Jul 22 20:37:45 -0300 2009: Error calling Dispatcher.dispatch #<Mongrel::TimeoutError: Mongrel timed out this thread: shutdown>Thread #<Thread:0xf688c2b8 sleep> is too old, killing.
+
+
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:221:in `process'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+/usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/usr/bin/mongrel_rails:19:in `load'
+/usr/bin/mongrel_rails:19Waiting for 4 requests to finish, could take 60.0 seconds.
+
+Wed Jul 22 20:37:51 -0300 2009: Reaping 1 threads for slow workers because of 'shutdown'
+Waiting for 1 requests to finish, could take 60.0 seconds.
+Wed Jul 22 20:37:57 -0300 2009: Reaping 1 threads for slow workers because of 'shutdown'
+Waiting for 1 requests to finish, could take 60.0 seconds.
+Wed Jul 22 20:38:03 -0300 2009: Reaping 1 threads for slow workers because of 'shutdown'
+Waiting for 1 requests to finish, could take 60.0 seconds.
+Wed Jul 22 20:38:09 -0300 2009: Reaping 1 threads for slow workers because of 'shutdown'
+Waiting for 1 requests to finish, could take 60.0 seconds.
+Wed Jul 22 20:38:15 -0300 2009: Reaping 1 threads for slow workers because of 'shutdown'
+Waiting for 1 requests to finish, could take 60.0 seconds.
+Wed Jul 22 20:38:21 -0300 2009: Reaping 1 threads for slow workers because of 'shutdown'
+Waiting for 1 requests to finish, could take 60.0 seconds.
+Wed Jul 22 20:38:27 -0300 2009: Reaping 1 threads for slow workers because of 'shutdown'
+Waiting for 1 requests to finish, could take 60.0 seconds.
+Wed Jul 22 20:38:33 -0300 2009: Reaping 1 threads for slow workers because of 'shutdown'
+Waiting for 1 requests to finish, could take 60.0 seconds.
+Wed Jul 22 20:38:39 -0300 2009: Reaping 1 threads for slow workers because of 'shutdown'
+Thread #<Thread:0xf688885c sleep> is too old, killing.
+Waiting for 1 requests to finish, could take 60.0 seconds.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+                                                                                                                                                                                                                                                                                                                              ** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid
+** Daemonized, any open files are closed.  Look at tmp/pids/mongrel.8000.pid and log/mongrel.8000.log for info.
+** Starting Mongrel listening at 127.0.0.1:8000
+** Initiating groups for "mongrel":"mongrel".
+** Changing group to "mongrel".
+** Changing user to "mongrel".
+** Starting Rails with production environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 127.0.0.1:8000
+** Writing PID file to tmp/pids/mongrel.8000.pid

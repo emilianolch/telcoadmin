@@ -1,0 +1,52 @@
+8
+
+dir
+10
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba/test/functional
+svn+ssh://emiliano@mundoasterisk.com.ar/home/emiliano/svn/internetcordoba
+
+
+
+2009-05-07T19:53:51.637826Z
+3
+emiliano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c9d79487-2b78-4f5e-997e-9ca8187154fc
+
+cdrs_controller_test.rb
+file
+
+
+
+
+2009-05-11T22:40:34.000000Z
+35d70bdf05d3858d0c1200f21f0141df
+2009-05-07T19:53:51.637826Z
+3
+emiliano
+
+user_controller_test.rb
+file
+
+
+
+
+2009-05-11T22:40:34.000000Z
+0e2f58f7851b48135e153ec1b42f6110
+2009-05-07T13:22:43.694349Z
+2
+emiliano
+

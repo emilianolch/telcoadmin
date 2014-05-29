@@ -1,0 +1,132 @@
+
+
+Processing CdrsController#index (for 127.0.0.1 at 2009-05-12 00:01:55) [GET]
+Redirected to http://localhost:8000/user/login
+Filter chain halted as [:login_required] rendered_or_redirected.
+Completed in 28ms (DB: 1) | 302 Found [http://localhost/]
+
+
+Processing UserController#login (for 127.0.0.1 at 2009-05-12 00:02:04) [GET]
+Rendering template within layouts/scaffold
+Rendering user/login
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/user/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2009-05-12 00:02:16) [POST]
+  Parameters: {"user_login"=>"root", "authenticity_token"=>"l9EUKDnRapivDLjmPNiy4WxjgA2k8E46VawnWWiRB3g=", "user_password"=>"ic2719", "login"=>"Login »"}
+Redirected to http://localhost:8000/
+Completed in 13ms (DB: 11) | 302 Found [http://localhost/user/login]
+
+
+Processing CdrsController#index (for 127.0.0.1 at 2009-05-12 00:02:18) [GET]
+Rendering template within layouts/scaffold
+Rendering cdrs/index
+Completed in 723ms (View: 10, DB: 576) | 200 OK [http://localhost/]
+
+
+Processing UserController#login (for 127.0.0.1 at 2009-05-12 00:02:26) [POST]
+  Parameters: {"user_login"=>"root", "authenticity_token"=>"l9EUKDnRapivDLjmPNiy4WxjgA2k8E46VawnWWiRB3g=", "user_password"=>"ic2719", "login"=>"Login »"}
+Redirected to http://localhost:8000/user/welcome
+Completed in 4ms (DB: 3) | 302 Found [http://localhost/user/login]
+
+
+Processing UserController#welcome (for 127.0.0.1 at 2009-05-12 00:02:28) [GET]
+Rendering template within layouts/scaffold
+Rendering user/welcome
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/user/welcome]
+
+
+Processing CdrsController#index (for 127.0.0.1 at 2009-05-12 00:02:59) [GET]
+Redirected to http://localhost:8000/user/login
+Filter chain halted as [:login_required] rendered_or_redirected.
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/]
+
+
+Processing UserController#login (for 127.0.0.1 at 2009-05-12 00:03:07) [GET]
+Rendering template within layouts/scaffold
+Rendering user/login
+Completed in 2ms (View: 2, DB: 0) | 200 OK [http://localhost/user/login]
+
+
+Processing UserController#login (for 127.0.0.1 at 2009-05-12 00:03:14) [POST]
+  Parameters: {"user_login"=>"root", "authenticity_token"=>"x4iSYFw3mZ0OW7jklWmv/n55HJNTaeSMW5Ao9Dzcp+8=", "user_password"=>"ic2719", "login"=>"Login »"}
+Redirected to http://localhost:8000/
+Completed in 3ms (DB: 2) | 302 Found [http://localhost/user/login]
+
+
+Processing CdrsController#index (for 127.0.0.1 at 2009-05-12 00:03:16) [GET]
+Rendering template within layouts/scaffold
+Rendering cdrs/index
+Completed in 565ms (View: 8, DB: 556) | 200 OK [http://localhost/]
+
+
+Processing CdrsController#listar (for 127.0.0.1 at 2009-05-12 00:03:36) [POST]
+  Parameters: {"cdr_select"=>{"hasta(3i)"=>"12", "desde(2i)"=>"5", "desde(3i)"=>"11", "dcontext"=>"agustino-priv", "hasta(1i)"=>"2009", "hasta(2i)"=>"5", "desde(1i)"=>"2009"}, "commit"=>"Listar", "authenticity_token"=>"x4iSYFw3mZ0OW7jklWmv/n55HJNTaeSMW5Ao9Dzcp+8="}
+Completed in 1433ms (View: 60, DB: 1330) | 200 OK [http://localhost/cdrs/listar]
+
+
+Processing CdrsController#index (for 127.0.0.1 at 2009-05-12 00:05:28) [GET]
+Redirected to http://localhost:8000/user/login
+Filter chain halted as [:login_required] rendered_or_redirected.
+Completed in 5ms (DB: 1) | 302 Found [http://localhost/]
+
+
+Processing UserController#login (for 127.0.0.1 at 2009-05-12 00:05:34) [GET]
+Rendering template within layouts/scaffold
+Rendering user/login
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/user/login]
+
+
+Processing CdrsController#index (for 190.15.192.149 at 2009-05-12 00:21:20) [GET]
+Redirected to http://telcoadmin.internetcordoba.com.ar/user/login
+Filter chain halted as [:login_required] rendered_or_redirected.
+Completed in 1ms (DB: 0) | 302 Found [http://telcoadmin.internetcordoba.com.ar/]
+
+
+Processing UserController#login (for 190.15.192.149 at 2009-05-12 00:21:20) [GET]
+Rendering template within layouts/scaffold
+Rendering user/login
+Completed in 2ms (View: 2, DB: 0) | 200 OK [http://telcoadmin.internetcordoba.com.ar/user/login]
+
+
+Processing UserController#login (for 190.15.192.149 at 2009-05-12 00:21:33) [POST]
+  Parameters: {"user_login"=>"root", "authenticity_token"=>"7Pdkz3YDCnWN9x8K0Zhcjxi6FXIPskZgwTgc23Y9s7E=", "user_password"=>"ic2719", "login"=>"Login »"}
+Redirected to http://telcoadmin.internetcordoba.com.ar/
+Completed in 6ms (DB: 4) | 302 Found [http://telcoadmin.internetcordoba.com.ar/user/login]
+
+
+Processing CdrsController#index (for 190.15.192.149 at 2009-05-12 00:21:33) [GET]
+Rendering template within layouts/scaffold
+Rendering cdrs/index
+Completed in 583ms (View: 9, DB: 558) | 200 OK [http://telcoadmin.internetcordoba.com.ar/]
+
+
+Processing CdrsController#listar (for 190.15.192.149 at 2009-05-12 00:21:48) [POST]
+  Parameters: {"cdr_select"=>{"hasta(3i)"=>"12", "desde(2i)"=>"5", "desde(3i)"=>"11", "dcontext"=>"agustino-priv", "hasta(1i)"=>"2009", "hasta(2i)"=>"5", "desde(1i)"=>"2009"}, "commit"=>"Listar", "authenticity_token"=>"7Pdkz3YDCnWN9x8K0Zhcjxi6FXIPskZgwTgc23Y9s7E="}
+Completed in 1437ms (View: 60, DB: 1334) | 200 OK [http://telcoadmin.internetcordoba.com.ar/cdrs/listar]
+
+
+Processing CdrsController#listar (for 190.15.192.149 at 2009-05-12 00:22:01) [POST]
+  Parameters: {"cdr_select"=>{"hasta(3i)"=>"12", "desde(2i)"=>"5", "desde(3i)"=>"11", "dcontext"=>"hamsa-alum-priv", "hasta(1i)"=>"2009", "hasta(2i)"=>"5", "desde(1i)"=>"2009"}, "commit"=>"Listar", "authenticity_token"=>"7Pdkz3YDCnWN9x8K0Zhcjxi6FXIPskZgwTgc23Y9s7E="}
+Completed in 869ms (View: 32, DB: 825) | 200 OK [http://telcoadmin.internetcordoba.com.ar/cdrs/listar]
+
+
+Processing CdrsController#listar (for 190.15.192.149 at 2009-05-12 00:22:20) [POST]
+  Parameters: {"cdr_select"=>{"hasta(3i)"=>"30", "desde(2i)"=>"4", "desde(3i)"=>"1", "dcontext"=>"agustino-priv", "hasta(1i)"=>"2009", "hasta(2i)"=>"4", "desde(1i)"=>"2009"}, "commit"=>"Listar", "authenticity_token"=>"7Pdkz3YDCnWN9x8K0Zhcjxi6FXIPskZgwTgc23Y9s7E="}
+Completed in 16277ms (View: 1116, DB: 14827) | 200 OK [http://telcoadmin.internetcordoba.com.ar/cdrs/listar]
+
+
+Processing CdrsController#index (for 190.15.192.149 at 2009-05-12 00:51:04) [GET]
+Rendering template within layouts/scaffold
+Rendering cdrs/index
+Completed in 619ms (View: 10, DB: 561) | 200 OK [http://telcoadmin.internetcordoba.com.ar/]
+
+
+Processing CdrsController#listar (for 190.15.192.149 at 2009-05-12 00:51:13) [POST]
+  Parameters: {"cdr_select"=>{"hasta(3i)"=>"12", "desde(2i)"=>"4", "desde(3i)"=>"12", "dcontext"=>"ic-priv", "hasta(1i)"=>"2009", "hasta(2i)"=>"5", "desde(1i)"=>"2009"}, "commit"=>"Listar", "authenticity_token"=>"7Pdkz3YDCnWN9x8K0Zhcjxi6FXIPskZgwTgc23Y9s7E="}
+Completed in 1850ms (View: 94, DB: 1713) | 200 OK [http://telcoadmin.internetcordoba.com.ar/cdrs/listar]
+
+
+Processing CdrsController#listar (for 190.15.192.149 at 2009-05-12 00:51:44) [POST]
+  Parameters: {"cdr_select"=>{"hasta(3i)"=>"5", "desde(2i)"=>"4", "desde(3i)"=>"12", "dcontext"=>"ic-priv", "hasta(1i)"=>"2009", "hasta(2i)"=>"5", "desde(1i)"=>"2009"}, "commit"=>"Listar", "authenticity_token"=>"7Pdkz3YDCnWN9x8K0Zhcjxi6FXIPskZgwTgc23Y9s7E="}
+Completed in 1585ms (View: 66, DB: 1495) | 200 OK [http://telcoadmin.internetcordoba.com.ar/cdrs/listar]
