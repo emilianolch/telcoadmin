@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20090521190527) do
+ActiveRecord::Schema.define(:version => 20140609220840) do
 
   create_table "cdr", :force => true do |t|
     t.datetime "calldate",                                  :null => false
@@ -50,6 +50,8 @@ ActiveRecord::Schema.define(:version => 20090521190527) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "ic_destinos", ["indicativo"], :name => "ic_desinos_indicativo_index", :unique => true
 
   create_table "users", :force => true do |t|
     t.string   "login"

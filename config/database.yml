@@ -1,13 +1,13 @@
 development:
   adapter: postgresql
-  host: icserver.internetcordoba.com.ar
+  host: localhost
   database: asterisk
   username: asterisk
   password: qwe129jk
 
 test:
   adapter: postgresql
-  host: icserver
+  host: localhost
   database: asterisk_test
   username: asterisk
   password: qwe129jk
@@ -15,6 +15,6 @@ test:
 production:
   adapter: postgresql
   host: localhost
-  database: asterisk
+  database: asterisk_prod
   username: asterisk
   password: qwe129jk
